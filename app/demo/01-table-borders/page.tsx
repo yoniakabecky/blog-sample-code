@@ -1,4 +1,5 @@
 import { Example1 } from "./example1";
+import { Example2 } from "./example2";
 
 export default function TableBorder() {
   return (
@@ -9,6 +10,7 @@ export default function TableBorder() {
 
       <div className="grid lg:grid-cols-2 gap-4">
         <Example1 />
+        <Example2 />
       </div>
     </article>
   );
