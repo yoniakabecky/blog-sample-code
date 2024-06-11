@@ -9,7 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "dom-to-image": "^2.6.0",
+    "dom-to-image-more": "^3.3.0",
     "file-saver": "^2.0.5",
+    "html-to-image": "^1.11.11",
     "html2canvas": "^1.4.1",
     "next": "15.0.0-rc.0",
     "react": "19.0.0-rc-935180c7e0-20240524",
